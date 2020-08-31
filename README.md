@@ -1,8 +1,11 @@
-### Whermerson Cavalcante 👋
+     ### Whermerson Cavalcante 👋
 
+    Civil Engineering Student (UniFanor Wyden)
 
-Passionate about technology and how it shapes the world we live in.
+    Passionate about technology, how it evolves and shapes the world ...
 
-"Sometimes bad things happen in our lives to set us on the path to the best things we could ever live."
+    Currently, I study web and mobile development, with technologies such as (Node.js, ReactJS and React-Native).
+
+    The world and technology are always evolving, and I also hope to follow this path, never stop evolving ... 
 
 
