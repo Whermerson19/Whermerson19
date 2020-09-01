@@ -1,4 +1,8 @@
-   ### Whermerson Cavalcante 👋
+   ### Whermerson Cavalcante 🎓
+   
+   <a href="https://linkedin.com/in/whermerson-cavalcante"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=flat-square&logo=linkedin&logoColor=white" height=20></a> ![Badge](https://img.shields.io/static/v1?label=&message=whermersonc@gmail.com&color=f25b50&style=flat-square&logo=Gmail&logoColor=white) ![Badge](https://img.shields.io/static/v1?label=&message=@whermerson_cavalcante&color=C13584&style=flat-square&logo=Instagram&logoColor=white)
+   
+  
 
    Civil Engineering Student (UniFanor Wyden)
 
