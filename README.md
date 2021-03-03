@@ -2,7 +2,7 @@
 #### Seja Bem-Vindo(a) ao meu pequeno mundo 🧠
 
 #### Entre em contato ⌨️
-![Badge](https://img.shields.io/badge/Whermerson_Cavalcante-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)  ![Badge](https://img.shields.io/badge/whermersonc@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)  ![Badge](https://img.shields.io/static/v1?label=&message=@whermerson_cavalcante&color=C13584&style=flat&logo=Instagram&logoColor=white)
+![Badge](https://img.shields.io/badge/whermerson-cavalcante-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)  ![Badge](https://img.shields.io/badge/whermersonc@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)  ![Badge](https://img.shields.io/static/v1?label=&message=@whermerson_cavalcante&color=C13584&style=flat&logo=Instagram&logoColor=white)
 
 #### Ferramentas e Teconologias que mais uso 💻
 
