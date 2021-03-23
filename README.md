@@ -1,13 +1,25 @@
 # Olá me chamo, Whermerson Cavalcante!
 #### Seja Bem-Vindo(a) ao meu pequeno mundo 🧠
 
-#### Entre em contato ⌨️
-![Badge](https://img.shields.io/badge/-Whermerson_Cavalcante-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dwhermerson-cavalcante/)   ![Badge](https://img.shields.io/badge/whermersonc@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)  ![Badge](https://img.shields.io/static/v1?label=&message=@whermerson_cavalcante&color=C13584&style=flat&logo=Instagram&logoColor=white)
+##### Que tal conferir? 💬 
+![](https://img.shields.io/badge/Whermerson_Cavalcante-0077B5?style=flat&logo=linkedin&logoColor=white) ![Badge](https://img.shields.io/badge/whermersonc@gmail.com-D14836?style=flat&logo=gmail&logoColor=white) ![Badge](https://img.shields.io/static/v1?label=&message=@whemerson_cavalcante&color=C13584&style=flat&logo=Instagram&logoColor=white)
 
-#### Ferramentas e Tecnologias que mais uso 💻
+##### 🛠 Tecnologias Backend ⚙️
+ ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-![Badge](https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842) ![Badge](https://img.shields.io/badge/Typescript-F7D842?style=social&logo=typescript&logoColor=blue) ![Badge](https://img.shields.io/badge/ReactJS-F7D842?style=social&logo=react&logoColor=3d6098) ![Badge](https://img.shields.io/badge/React_Native-F7D842?style=social&logo=react&logoColor=3d6098) ![Badge](https://img.shields.io/badge/Visual_Studio_Code-F7D842?style=social&logo=visual-studio-code&logoColor=007acc) ![Badge](https://img.shields.io/badge/React_Native-F7D842?style=social&logo=react&logoColor=3d6098) ![Badge](https://img.shields.io/badge/Git-F7D842?style=social&logo=git&logoColor=f05032) ![Badge](https://img.shields.io/badge/GitHub-F7D842?style=social&logo=github&logoColor=181717)
+##### 💻 Tecnologias Frontend 📱
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](	https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-#### Liguagens
+##### 🗂 Banco de dados
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+##### 🔧 Ferramentas que utilizo
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+#### Minhas Estatísticas 📈
+![Whermerson19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Whermerson19&count_private=true&show_icons=true&theme=tokyonight))
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whermerson19&langs_count=8&layout=compact&theme=tokyonight)
